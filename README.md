@@ -10,3 +10,5 @@ Category Analysis:
 * Analyze the distribution of complaint types (e.g., "product," "issue," "sub_issue").
 * Identify the most common products or services associated with complaints.
 * Investigate the most frequent issues raised by consumers.
+
+  The following [data set](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints/) was used in this analysis.

@@ -1,6 +1,7 @@
 # consumer-finance-complaints
 Analysis:
-Tableau Public Visualization Draft: [https://public.tableau.com/app/profile/ashley.ley/viz/ConsumerCompaints/BanksWithMostIssuesReported?publish=yes](https://public.tableau.com/app/profile/ashley.ley/viz/ConsumerCompaints/BanksWithMostIssuesReported?publish=yes)
+
+[Tableau Public Visualization Draft](https://public.tableau.com/app/profile/ashley.ley/viz/ConsumerCompaints/BanksWithMostIssuesReported?publish=yes)
 * Analyze trends in complaint submissions over time based on the "date_received" column.
   * complaint_id and date_received - seeing what dates/days/time periods having more complaints than others
   * Are there seasonal patterns?
